@@ -5,7 +5,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/henokv/azure-env/internal"
+	"github.com/MKTHEPLUGG/azure-env/internal"
 	"github.com/spf13/cobra"
 	"strings"
 )

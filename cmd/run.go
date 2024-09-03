@@ -5,7 +5,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/henokv/azure-env/internal"
+	"github.com/MKTHEPLUGG/azure-env/internal"
 	"github.com/joho/godotenv"
 	"github.com/spf13/cobra"
 	"log"

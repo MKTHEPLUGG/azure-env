@@ -1,4 +1,4 @@
-module github.com/henokv/azure-env
+module github.com/MKTHEPLUGG/azure-env
 
 go 1.20
 
